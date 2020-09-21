@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.dot</groupId>
-  <artifactId>dot-rpc</artifactId>
+  <artifactId>dot</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20200918110105</lastUpdated>
+    <lastUpdated>20200921044006</lastUpdated>
   </versioning>
 </metadata>
