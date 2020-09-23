@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.dot</groupId>
     <artifactId>dot-rpc</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <name>dot-rpc</name>
     <description>dot-rpc for Spring Boot</description>
 
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.dot</groupId>
             <artifactId>dot-base</artifactId>
-            <version>1.0</version>
+            <version>1.1</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -124,7 +124,7 @@
     </build>
     <repositories>
         <repository>
-            <id>dot-log-annotation</id>
+            <id>dot-base</id>
             <name>Lelontar391</name>
             <url>https://raw.github.com/Lelontar391/dot-base/master/</url>
             <snapshots>
